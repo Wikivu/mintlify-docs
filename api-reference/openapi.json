@@ -185,8 +185,7 @@
         }
       }
     },
-    "securitySchemes": {
-      "bearerAuth": {
+ı      "bearerAuth": {
         "type": "http",
         "scheme": "bearer"
       }
